@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+venv/
+.venv/
+.env
+
+# Build output
+build/
+dist/
+*.exe
+*.spec
+*.log
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.vscode/
+.DS_Store
+
+# Project generated runtime
+tmp/
+!_Печать/
+Версии/
+! ГОТОВО/
+backup/
+*.rar
+*.zip
